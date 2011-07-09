@@ -1,0 +1,61 @@
+Naam                 ,Versie,Genre,Grootte,Verkoper                                           
+Aansluiten op de Mac ,v1.2.1,Productiviteit,2.3 MB,Hana Mobile                                 
+Air Sharing Pro      ,v2.5.1,Zakelijk,14.2 MB,Avatron Software Inc.                      
+Air Video            ,v2.4.5,Diensten,1.8 MB,InMethod s.r.o.                             
+Ars Technica         ,v1.0.1,Nieuws,2.7 MB,Cond~ Nast Digital                          
+Bluefire Reader      ,v1.4,Boeken,19.9 MB,Bluefire Productions                        
+Buienradar HD        ,v1.1.2,Het weer,1.7 MB,Buienradar B.V.                             
+Circus Ponies NoteBook,v3.0.6,Productiviteit,15.1 MB,Circus Ponies Software                      
+Classic FM NL        ,v2.0,Muziek,214 KB,SRG                                         
+De Telegraaf HD      ,v2.0.0,Nieuws,4.9 MB,De Telegraaf B.V.                           
+de Volkskrant HD     ,v1.35,Nieuws,4.1 MB,De Persgroep                                
+Desktop Connect      ,v4.1,Productiviteit,12.3 MB,Antecea Inc.                                
+Dropbox              ,v1.3.1,Productiviteit,6 MB,Dropbox                                     
+Evernote             ,v4.0.0,Productiviteit,15.2 MB,Evernote                                    
+Feeddler RSS Reader  ,v1.8,Nieuws,5 MB,C.B. Liu                                    
+Feeddler RSS Reader Pro,v1.8,Nieuws,7.9 MB,C.B. Liu                                    
+Files2 HD            ,v3.6.3,Zakelijk,7.6 MB,Byte2                                       
+Foxit Reader Lite    ,v1.0,Productiviteit,4.9 MB,Foxit Corporation                           
+GoodReader for iPad  ,v3.5.0,Productiviteit,22.4 MB,Good.iWare Ltd.                             
+Google Earth         ,v3.2.0,Reizen,14.8 MB,Google                                      
+iBooks               ,v1.2.1,Boeken,16.2 MB,Apple                                       
+iCab Mobile (Web Browser),v4.5.1,Diensten,5.8 MB,Alexander Clauss                            
+IMDb Movies & TV     ,v2.0,Amusement,6.8 MB,IMDb                                        
+ING                  ,v1.0.3,Financi~n,1.7 MB,ING                                         
+iNotes for iPad      ,v2.1.1,Productiviteit,3.1 MB,Anson Li                                    
+LogMeln Ignition     ,v1.2.184,Productiviteit,5.1 MB,LogMeln Inc.                               
+MagWorld             ,v1.2.2,Nieuws,18.6 MB,Aemotion B.V.                               
+NASA App HD          ,v1.12,Onderwijs,6.7 MB,NASA                                        
+Nebulous Notes Lite  ,v4.31,Productiviteit,4.8 MB,Nuclear Elements                            
+Noteshelf            ,v3.0,Productiviteit,19.1 MB,Ramki                                       
+NU HD                ,v1.2.2,Nieuws,1.8 MB,Sanoma Digital                              
+Pages                ,v1.3.1,Productiviteit,66 MB,Apple                                       
+Parallels Mobile     ,v2.3.454,Diensten,30.7 MB,Parallels Inc.                             
+Pianist Pro          ,v1.9.1,Muziek,103.6 MB,MooCowMusic                                 
+Piano Guy: Amazing Grace,v1.1,Muziek,645.8 MB,Piano Guy Media                            
+Piano Guy: Silent Night,v1.0,Muziek,603.5 MB,Piano Guy Media                            
+Piano Song Lessons  ,v1.02,Muziek,500 KB,Nations Software                           
+PlainText           ,v1.3,Productiviteit,1.5 MB,Hog Bay Software                           
+Play Piano in a Flash,v1.0,Muziek,702.9 MB,Piano Guy Media                            
+Plex                ,v1.0.2,Amusement,5.5 MB,Plex Inc.                                 
+Podcaster           ,v3.8.3,Nieuws,2.2 MB,Alex Sokirynsky                             
+PressReader         ,v2.3,Nieuws,5.4 MB,NewspaperDirect Inc.                       
+Rabo Bankieren      ,v1.3,Financi~n,2.7 MB,Rabobank                                   
+Real Racing HD      ,v1.04,Games,153.2 MB,Firemint Pty Ltd                           
+Remote              ,v2.1.1,Amusement,15.5 MB,Apple                                       
+SYSTEM Manager for iPad,v5.0,Diensten,2.8 MB,AppHome                                     
+Truphone for iPad    ,v2.1,Sociaal netwerken,26.1 MB,Truphone                                    
+Twitter             ,v3.3.1,Sociaal netwerken,9.2 MB,Twitter Inc.                              
+UPC                 ,v1.1.0,Amusement,6.3 MB,UPC Broadband Holding                  
+USB Disk for iPad   ,v1.1.2,Diensten,6.9 MB,Imesart                                    
+USB Disk Pro for iPad,v1.0.1,Diensten,8.5 MB,Imesart                                    
+Virtuoso Piano Free 2 HD,v2.3.1,Muziek,11.4 MB,Peterb                                     
+VLC Media Player    ,v1.1.0,Amusement,9.9 MB,Applidium                                  
+The Wall Street Journal,v3.0,Nieuws,9.7 MB,DowJones & Compan...                       
+Wikipanion for iPad ,v1.6.5.5,Naslagwerken,3.2 MB,Robert Chin                                
+Wikipedia Offline Lite,v2.0,Naslagwerken,17 MB,Avocado Hills                              
+WolframAIpha        ,v1.2.4.1792101,Naslagwerken,3.9 MB,Wolfram Alpha LLC                          
+Xmarks for iPhone   ,v1.3.0,Productiviteit,608 KB,Xmarks Inc.                               
+ZDNet.nl News Reader,v1.0,Nieuws,2 MB,Mediafed                                   
+ZumoCast            ,v1.2.1,Diensten,6.2 MB,Zecter Inc.                                
+1Password for iPad  ,v3.5.7,Productiviteit,4.3 MB,Agile Web Solutions,
